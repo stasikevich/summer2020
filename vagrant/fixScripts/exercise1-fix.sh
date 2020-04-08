@@ -1,2 +1,2 @@
 #!/bin/bash
-#add fix to exercise1 here
+route add 192.168.100.10 gw 10.0.2.2 eth0
